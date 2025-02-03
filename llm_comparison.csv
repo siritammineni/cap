@@ -1,0 +1,44 @@
+Model,Parameters,Input Types,Model Weight,Sentiment Analysis,Query Categorization,Multimodal Support,Fine-tuning Available,Context Length,
+OpenAI o3-mini,~3B,"Text, Code",Lightweight,Yes,Yes,No,No,Short,llm
+DeepSeek-R1,~67B,"Text, Code",Heavy,Yes,Yes,No,Yes,Long,llm
+Phi-4,~13B (estimated),Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Codestral 25.01,~25B,"Text, Code",Medium,Yes,Yes,No,Yes,Medium,llm
+OpenAI o1,Unknown,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Mistral Large 24.11,~65B,Text,Heavy,Yes,Yes,No,Yes,Long,llm
+Llama-3.3-70B-Instruct,70B,Text,Heavy,Yes,Yes,No,Yes,Long,llm
+JASI 30b Chat,30B,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Ministral 3B,3B,Text,Lightweight,Yes,Yes,No,No,Short,llm
+Llama-3.2-90B-Vision-Instruct,90B,"Text, Vision",Heavy,Yes,Yes,Yes,Yes,Long,llm
+Llama-3.2-11B-Vision-Instruct,11B,"Text, Vision",Medium,Yes,Yes,Yes,Yes,Medium,llm
+Cohere Command R+ 08-2024,Unknown,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Cohere Command R 08-2024,Unknown,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Phi-3.5-MoE instruct(128k),MoE,Text,Medium,Yes,Yes,No,Yes,Long,llm
+OpenAI o1-preview,Unknown,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+OpenAI o1-mini,Unknown,Text,Lightweight,Yes,Yes,No,No,Short,llm
+Phi-3.5-vision instruct(128k),Unknown,"Text, Vision",Medium,Yes,Yes,Yes,Yes,Long,llm
+AI21 Jamba 1.5 Mini,Small,Text,Lightweight,Yes,Yes,No,No,Short,llm
+AI21 Jamba 1.5 Large,Large,Text,Heavy,Yes,Yes,No,Yes,Long,llm
+Phi-3.5-mini instruct(128k),Small,Text,Lightweight,Yes,Yes,No,No,Long,llm
+Meta-Llama-3.1-8B-Instruct,8B,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Meta-llama-3.1-70B-Instruct,70B,Text,Heavy,Yes,Yes,No,Yes,Long,llm
+Meta-llama-3.1-405B-Instruct,405B,Text,Very Heavy,Yes,Yes,No,Yes,Very Long,llm
+Mistral Large (2407),Large,Text,Heavy,Yes,Yes,No,Yes,Long,llm
+Mistral Nemo,Unknown,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Phi-3-small instruct(8k),Small,Text,Lightweight,Yes,Yes,No,No,Short,llm
+Phi-3-small instruct (128k),Small,Text,Lightweight,Yes,Yes,No,No,Long,llm
+Cohere Embed v3 Multilingual,Embedding,Text,N/A,No,No,No,No,N/A,Not llm
+Cohere Embed v3 English,Embedding,Text,N/A,No,No,No,No,N/A,Not llm
+OpenAI Text Embedding 3 (Small),Embedding,Text,N/A,No,No,No,No,N/A,Not llm
+OpenAI Text Embedding 3 (Large),Embedding,Text,N/A,No,No,No,No,N/A,Not llm
+OpenAI GPT-4o mini,Unknown,"Text, Vision, Audio",Medium,Yes,Yes,Yes,Yes,Long,llm
+Cohere Command R,Unknown,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Cohere Command R+,Unknown,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Mistral Large,~65B,Text,Heavy,Yes,Yes,No,Yes,Long,llm
+Mistral Small,~7B,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Meta-llama-3-70B-Instruct,70B,Text,Heavy,Yes,Yes,No,Yes,Long,llm
+Meta-Llama-3-8B-Instruct,8B,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Phi-3-mini instruct(4k),Small,Text,Lightweight,Yes,Yes,No,No,Short,llm
+Phi-3-mini instruct(128k),Small,Text,Lightweight,Yes,Yes,No,No,Long,llm
+Phi-3-medium instruct(4k),Medium,Text,Medium,Yes,Yes,No,Yes,Medium,llm
+Phi-3-medium instruct(128k),Medium,Text,Medium,Yes,Yes,No,Yes,Long,llm
+OpenAI GPT-4o,Unknown,"Text, Vision, Audio",Heavy,Yes,Yes,Yes,Yes,Very Long,llm
